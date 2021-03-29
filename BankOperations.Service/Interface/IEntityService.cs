@@ -1,5 +1,4 @@
 ﻿using BankOperations.Model.Core;
-using BankOperations.Model.Model;
 using BankOperations.Repository.Base;
 using System.Collections.Generic;
 

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BankOperationsApp.Common.Constant
+﻿namespace BankOperationsApp.Common.Constant
 {
     public static class CommonConstant
     {

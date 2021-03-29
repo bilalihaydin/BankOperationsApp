@@ -3,7 +3,6 @@ using BankOperations.Model.Model;
 using BankOperations.Service.Services.TransactionService;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace BankOperationsApp.Controllers
 {
