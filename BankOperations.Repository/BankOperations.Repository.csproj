@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BankOperations.Model\BankOperations.Model.csproj" />
+    <ProjectReference Include="..\BankOperationsApp.Cache\BankOperationsApp.Cache.csproj" />
+    <ProjectReference Include="..\BankOperationsApp.Common\BankOperationsApp.Common.csproj" />
+  </ItemGroup>
+
+</Project>
